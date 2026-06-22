@@ -10,7 +10,7 @@ This project allows users to browse jobs, view details, and perform full CRUD op
 Add your deployed link here (Vercel / Netlify)
 
 
-https://your-app.vercel.app
+https://joblistingwebsite-delta.vercel.app/
 
 
 ---
